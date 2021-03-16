@@ -1,0 +1,22 @@
+{
+  "name": "etherscount",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "azure-function-log-intercept": "^1.0.7",
+    "mongodb": "^3.6.4",
+    "mongoose": "^5.11.19",
+    "node-cron": "^3.0.0",
+    "puppeteer": "^5.5.0",
+    "puppeteer-extra": "^3.1.15",
+    "puppeteer-extra-plugin-recaptcha": "^3.2.0",
+    "puppeteer-extra-plugin-stealth": "^2.6.5",
+    "user-agents": "^1.0.559"
+  },
+  "devDependencies": {}
+}
